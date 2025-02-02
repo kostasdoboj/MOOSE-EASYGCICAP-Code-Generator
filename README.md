@@ -27,3 +27,7 @@ When you finish setting up your class, either copy your code your code and add i
 **Generated Code Preview**
 
 ![GCI5](https://github.com/user-attachments/assets/46ff634b-b47a-4374-b0ff-45b991fbfd97)
+
+For more information and details about the EASYGCICAP Class visit this page:
+
+https://flightcontrol-master.github.io/MOOSE_DOCS_DEVELOP/Documentation/Ops.EasyGCICAP.html
