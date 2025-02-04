@@ -4,6 +4,8 @@
 
 **Description:** This program allows users to setup their MOOSE EASYGCICAP class for their missions without having to code in Lua. The program generates Lua code by itself, based on user’s inputs. 
 
+**Need help?** https://discord.gg/e9fzMe9erA
+
 **SETTINGS TAB**
 
 The values depicted are the default used by the class. Modify them to your liking.
